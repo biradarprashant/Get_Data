@@ -1,0 +1,10 @@
+Package: myfirstPackage
+Type: Package
+Title: The package takes input an URL and print the body
+Version: 1.0
+Author: Prashant Biradar
+Maintainer: Prashant Biradar <prashant.biradar@gmail.com>
+Description: gets data from url and if it's in JSON format it'll convert it into list.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
