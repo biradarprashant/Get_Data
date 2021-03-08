@@ -1,3 +1,4 @@
+library(testthat)
 context("If JSON convert it in to list")
 
 with_mock_api({
